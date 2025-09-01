@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **IoT**
 
-- 👨‍💻 All of my projects are available at [https://rajyash0.github.io/personal-portfolio/](https://rajyash0.github.io/personal-portfolio/)
+- 👨‍💻 All of my projects are available at [rajyash0/portfolio](https://rajyash0.github.io/portfolio-try/)
 
 - 📫 How to reach me **yashhraj3@gmail.com**
 
