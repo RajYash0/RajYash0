@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajyash0&show_icons=true&locale=en" alt="rajyash0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyash0&" alt="rajyash0" /></p>
+<img src = "./RajYash0-space-shooter.gif"></img>
