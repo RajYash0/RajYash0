@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](https://rajyash0.io)
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">Aspiring Software Engineer | 3rd Year B.Tech CSE Student | Passionate about Code and Innovation</h3>
+<h3 align="center">Aspiring Software Engineer | 4th Year B.Tech CSE Student | Passionate about Code and Innovation</h3>
 <img align="right" alt"Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **IoT**
 
-- 👨‍💻 All of my projects are available at [rajyash0/portfolio](https://rajyash0.github.io/portfolio-try/)
+- 👨‍💻 All of my projects are available at [rajyash0/portfolio](https://portfolio-git-main-rajyash0s-projects.vercel.app/)
 
-- 📫 How to reach me **yashhraj3@gmail.com**
+- 📫 How to reach me [**yashhraj3@gmail.com**](mail.to:yashhraj3@gmail.com)
 
 - ⚡ Fun fact **When I'm not coding, I'm usually sketching.**
 
